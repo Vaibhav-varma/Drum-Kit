@@ -1,5 +1,4 @@
 const drums = document.querySelectorAll(".drum");
-const NoOfDrumBtns = drums.length;
 
 
 function playSound(letter) {
